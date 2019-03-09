@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#148BD3</color>
+    <color name="colorPrimaryDark">#148BD3</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="black">#192219</color>
+
+    <color name="light"> #74C8F4</color>
+
+    <color name="nocolor">#148BD3</color>
+    <color name="ski">#C5C6CA</color>
+
+</resources>
